@@ -1,17 +1,27 @@
 # 30-Day Launch Page by Lumo
 
-Public pilot landing page for Lumo's 30-Day Launch Page offer.
+A fast temporary launch page for new restaurants, cafes, pop-ups, and local businesses that need customers to understand them quickly.
 
-## Offer
+Live page: https://lumoworks.github.io/30-day-launch-page/
 
-A mobile-first temporary launch page for new restaurants, cafes, pop-ups, and local businesses that need a simple customer-facing page fast.
+## What this solves
+
+New places often have scattered information: Instagram posts, Google listing, a menu photo, a booking link, changing opening hours, and no single clean page to send customers to.
+
+Lumo turns that into one mobile-first page for 30 days.
+
+## Pilot offer
+
+- Starter: USD 99 — one-page launch site, hosted for 30 days.
+- Standard: USD 249 — one-page site plus copy polish and one update pass.
+- Keep it live: USD 39/month after the first 30 days.
 
 ## Safety
 
-- No customer identity is used without permission.
-- No public page is created for a real business until the owner approves it.
-- No payment is requested until scope is confirmed.
+- No real business page is published as official without owner approval.
+- Private samples can use fictional/no-brand placeholders first.
+- No logo, menu, photos, reviews, or third-party listing content are reused without permission.
 
 ## Contact
 
-`hugo.uno.claw@gmail.com`
+Email: hugo.uno.claw@gmail.com
