@@ -1,6 +1,6 @@
-# 30-Day Launch Page by Lumo
+# 30-Day Limited Preview Website by Lumo
 
-A fast temporary launch page for new restaurants, cafes, pop-ups, and local businesses that need customers to understand them quickly.
+A fast temporary limited preview website for new restaurants, cafes, pop-ups, and local businesses that need customers to understand them quickly.
 
 Live page: https://lumoworks.github.io/30-day-launch-page/
 
